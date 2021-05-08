@@ -20,7 +20,7 @@ const BodyText = (props) => {
 
 export default BodyText;
 
-// if no array will run at when component goes live or when components gets updated
+// if empty array will run at when component goes live or when components gets updated
 // if there is NO array will only run when component is created
 // if there is filled array
 
